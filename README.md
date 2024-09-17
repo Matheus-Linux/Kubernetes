@@ -25,6 +25,8 @@
 ## Topologia cluster Kubernetes 
 
 
+![k8s-cluster](https://github.com/user-attachments/assets/740d8405-e3cc-4f03-aaa4-507e4d62800c)
+
 
 ## Configuração do HAPROXY
 
